@@ -13,5 +13,5 @@ I'm Sahithi, a self-motivated Tech enthusiast.
 My Tech Stacks
 </h3>
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+<img src=""C:\Users\HP\Downloads\bg-removebg-preview.png"" alt="stacks"/>
 </h3>
