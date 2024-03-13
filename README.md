@@ -13,5 +13,5 @@ I'm Sahithi, a self-motivated Tech enthusiast.
 My Tech Stacks
 </h3>
 <h3 align="center">
-<img src=""C:\Users\HP\Downloads\bg-removebg-preview.png"" alt="stacks"/>
+<img src="https://github.com/KVS-Sahithi/KVS-Sahithi/blob/main/bg-removebg-preview.png" alt="stacks"/>
 </h3>
