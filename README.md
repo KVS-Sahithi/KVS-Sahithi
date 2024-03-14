@@ -8,7 +8,6 @@ I'm Sahithi, a self-motivated Tech enthusiast.
 </h4>
 <p  align="center">
 </p>
-<br/>
 <h3 align="center">
 I daydream of travel, longing for new adventures and cultures to explore.
 </h3>
