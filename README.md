@@ -4,7 +4,7 @@ I'm Sahithi, a self-motivated Tech enthusiast.
 </p>
 
 <h4 align="center">
-💻 currently learning Full stack web Development | 🌱 building <a href="https://github.com/KVS-Sahithi/Opportunaa">Opportunaa</a> | 💬 connect <a href="koppolsahithi@gmail.com">@ksahithi</a>
+💻 currently learning Full stack web Development | 🌱 building <a href="https://github.com/KVS-Sahithi/NestWorks">NestWorks</a> | 💬 connect <a href="koppolsahithi@gmail.com">@ksahithi</a>
 </h4>
 <p  align="center">
 </p>
