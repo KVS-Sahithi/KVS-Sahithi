@@ -1,6 +1,3 @@
-Here's the full modified version with added tech stack images, cheering lines, and icons:
-
----
 
 # 🚀 **Alien Invasion Defense** 🛸
 
