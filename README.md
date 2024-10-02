@@ -23,9 +23,7 @@ Here's the full modified version with added tech stack images, cheering lines, a
 5. **Victory:** Clear each wave to advance and rack up that high score. **The universe is counting on you!**
 
 ## 🛠️ **Tech Stack**  
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**: Structuring the game’s interface.  
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**: Styling the game for a sleek and modern look.  
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**: Making the game interactive and dynamic.  
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
 
 
 ## 🚀 **How to Run Locally**
